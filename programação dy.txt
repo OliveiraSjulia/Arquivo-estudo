@@ -1,0 +1,34 @@
+
+Lógica de Programação 
+
+- começando do 0;
+- precisa ser claro e objetivo; (para que ele execute corretamente a ação que voce quer passar para ele)
+- informações claras passo a passo;
+
+  exemplo:
+
+Se a porta estiver aberta:
+pegar  o lixo 
+levar o lixo para fora 
+
+Se a porta etiver fechada:
+pegue a chave
+enfie na fechadura 
+gire para esquerda até parar 
+abra a porta 
+pegue o lixo 
+leve o lixo para fora
+
+ and.
+
+Quando estamos criando programas, aplicações, jogos, etc. Constantemente estamos desenvolvendo algoritimos para resolver os mais variados problemas.
+Dentre as maneiras de representar os algoritimos as mais usadas são:
+- Descrição Narrativa (narrar as ações na ordem correta)
+- Fluxograma 
+- Portugol 
+
+Estudar logica e programação.   linguagem C# (lê-se C-sharp) utilizado muito no VS;
+
+Em JavaScript, quando cercamos uma palavra com citações é chamada de string, e quando terminamos com uma linha de código terminamos com um ponto e vírgula.
+
+JavaScript também tem recursos incorporados, chamados funções. Para chamar uma função, simplesmente escrevemos seu nome (desta vez sem citações) e terminamos com um conjunto de parênteses. 
